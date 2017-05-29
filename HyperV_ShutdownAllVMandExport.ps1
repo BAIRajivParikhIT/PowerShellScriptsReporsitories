@@ -1,4 +1,4 @@
-﻿## Powershell Script to Shutdown and Export Hyper-V 2012 VMs, one at a time.  Test 123
+﻿## Powershell Script to Shutdown and Export Hyper-V 2012 VMs, one at a time.  
 
 #Visit my Blog for more scripts or to comment on this one at http://www.czerno.com/blog/
 
